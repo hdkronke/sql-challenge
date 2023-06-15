@@ -1,7 +1,12 @@
-# sql-challenge
+# SQL Challenge
+## Module 9
 
-Module 9 Challenge
+For this project, I took employee data to build a database in SQL.
 
-Here are my files for the Module 9 Challenge covering SQL. The 'erd_diagram' shows the outline for my tables, and the 'table_schemata' creates them. The data to import into those tables can be pulled from the CSV files in the 'data' folder. Lastly, the 'queries_data_analysis' will pull up each of the solutions to the prompts in the challenge. 
+First, I needed to map out how the tables were going to store the data and how the primary and foreign keys would relate to each other.
 
-Cheers!
+![erd_diagram](https://github.com/hdkronke/sql-challenge/assets/117773492/b2fbd0ca-a7f6-4159-88e7-b35130fedfba)
+
+These tables could be called upon at will to efficiently access whatever information needed. That's much better than old CSV files!
+
+![1](https://github.com/hdkronke/sql-challenge/assets/117773492/b113a5af-4f60-4c2d-ad11-dc4e2ba047c8)
